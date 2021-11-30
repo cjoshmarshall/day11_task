@@ -1,0 +1,61 @@
+/* 4 */
+ol.alp{
+    list-style-type:lower-alpha;
+}
+
+
+/* 7 */
+.form7{
+    margin: auto;
+    width: 40%;
+    border: 3px solid black;
+    padding: 10px;
+}
+.h7{
+    text-align: center;
+    color: white;
+    background-color: red;
+    width: 100%;
+}
+.line{
+    display: block;
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid black;
+}
+.line2{
+    display: block;
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid black;
+}
+#fname{
+    width:130%
+}#lname{
+    width:45%
+}#address{
+    width:100%
+}#city{
+    width:90%
+}#state{
+    width:90%
+}#zip{
+    width:30%
+}
+div{
+    float:left;margin-right:100px
+}
+
+
+/* 8 */
+table, th, td {
+border: 1px solid black;
+border-collapse: collapse;
+margin-left: auto;
+margin-right: auto;
+margin-top: auto;
+text-align: center;
+}
+.div8{
+text-align: center;
+}
